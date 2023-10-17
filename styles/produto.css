@@ -16,7 +16,6 @@
     padding-left: 12px;
     padding-right: 12px;
     border-radius: 0px 0px 12px 12px ;
-    transform: translateY(100%);
     transition: 1s;
     opacity: 0;
 }
